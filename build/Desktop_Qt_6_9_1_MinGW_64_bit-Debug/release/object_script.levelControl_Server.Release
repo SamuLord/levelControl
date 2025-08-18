@@ -1,0 +1,10 @@
+release/AlarmPlayer.o
+release/ClientHandler.o
+release/DatabaseHandler.o
+release/HistoricModel.o
+release/main.o
+release/qrc_resources.o
+release/moc_AlarmPlayer.o
+release/moc_ClientHandler.o
+release/moc_DatabaseHandler.o
+release/moc_HistoricModel.o

@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Views/LoginView.qml</file>
+        <file>Views/OperationView.qml</file>
+        <file>main.qml</file>
+        <file>Images/background.jpeg</file>
+        <file>Images/logoIFMG.png</file>
+        <file>Components/CustomButton.qml</file>
+        <file>Popups/ConnectionPopup.qml</file>
+        <file>Images/refresh.png</file>
+        <file>Components/LevelDisplay.qml</file>
+        <file>Components/PumpDisplay.qml</file>
+        <file>Popups/CommandPopup.qml</file>
+        <file>Popups/ParametersPopup.qml</file>
+        <file>Images/aviso.png</file>
+        <file>Popups/HistorianPopup.qml</file>
+        <file>Sons/alarm.mp3</file>
+    </qresource>
+</RCC>

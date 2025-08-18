@@ -1,0 +1,10 @@
+debug/AlarmPlayer.o
+debug/ClientHandler.o
+debug/DatabaseHandler.o
+debug/HistoricModel.o
+debug/main.o
+debug/qrc_resources.o
+debug/moc_AlarmPlayer.o
+debug/moc_ClientHandler.o
+debug/moc_DatabaseHandler.o
+debug/moc_HistoricModel.o
